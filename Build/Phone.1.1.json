@@ -1,0 +1,17 @@
+{
+"companyName": "TimeX",
+"productName": "Mameters!!",
+"productVersion": "1.0",
+"dataUrl": "Phone.1.1.data.unityweb",
+"wasmCodeUrl": "Phone.1.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Phone.1.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Phone.1.1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
